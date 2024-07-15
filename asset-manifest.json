@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kal/static/css/main.f855e6bc.css",
-    "main.js": "/kal/static/js/main.0571c018.js",
-    "static/js/453.4207001b.chunk.js": "/kal/static/js/453.4207001b.chunk.js",
-    "static/media/logo.svg": "/kal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kal/index.html",
-    "main.f855e6bc.css.map": "/kal/static/css/main.f855e6bc.css.map",
-    "main.0571c018.js.map": "/kal/static/js/main.0571c018.js.map",
-    "453.4207001b.chunk.js.map": "/kal/static/js/453.4207001b.chunk.js.map"
+    "main.css": "/cak/static/css/main.f855e6bc.css",
+    "main.js": "/cak/static/js/main.70ac8dd5.js",
+    "static/js/453.4207001b.chunk.js": "/cak/static/js/453.4207001b.chunk.js",
+    "static/media/logo.svg": "/cak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cak/index.html",
+    "main.f855e6bc.css.map": "/cak/static/css/main.f855e6bc.css.map",
+    "main.70ac8dd5.js.map": "/cak/static/js/main.70ac8dd5.js.map",
+    "453.4207001b.chunk.js.map": "/cak/static/js/453.4207001b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0571c018.js"
+    "static/js/main.70ac8dd5.js"
   ]
 }
